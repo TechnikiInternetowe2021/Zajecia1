@@ -23,8 +23,11 @@ https://guides.github.com/activities/hello-world/
 ## Przydatne materiały
 
 Github: https://docs.github.com/en/github/getting-started-with-github
+
 Materiały do git'a: http://letmegooglethat.com/?q=git+commands
+
 Materiały do css: http://letmegooglethat.com/?q=css
+
 Github Pages Hello world: https://pages.github.com/
 
 # Zadanie (przygotowanie środowiska):

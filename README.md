@@ -6,7 +6,7 @@ Czas realizacji: Do dnia 08.03.2021 godzina 24:00
 
 Skoro chcemy mówić o "technikach internetowych" koniecznym jest poznanie technologii wersjonowania plików git.
 
-Utworzone repozytorium oraz konto na github będzie wykorzystywane na każdych kolejnych zajęciach.
+Utworzone konto na github będzie wykorzystywane na każdych kolejnych zajęciach.
 
 ### Informacje ogólne:
 

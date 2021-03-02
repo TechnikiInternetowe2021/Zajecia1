@@ -1,6 +1,6 @@
 # Zajecia1
 
-Przewidziany czas na realizację zadania z zajęć1: do dnia 08.03.2021 godzina 24:00
+Czas realizacji: Do dnia 08.03.2021 godzina 24:00
 
 ## Wstęp
 

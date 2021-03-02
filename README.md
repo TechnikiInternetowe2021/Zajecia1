@@ -3,21 +3,16 @@
 Czas realizacji: Do dnia 08.03.2021 godzina 24:00
 
 ## Wstęp
-
-Skoro chcemy mówić o "technikach internetowych" koniecznym jest poznanie technologii wersjonowania plików git.
-
+Skoro chcemy mówić o "technikach internetowych" koniecznym jest poznanie technologii wersjonowania plików git.<br/>
 Utworzone konto na github będzie wykorzystywane na każdych kolejnych zajęciach.
 
 ### Informacje ogólne:
-
 https://guides.github.com/
 
 ### Ciekawe informacje o technologii git można przeczytać na stronie:
-
 https://guides.github.com/introduction/git-handbook/
 
 ### "Hello world" w serwisie github:
-
 https://guides.github.com/activities/hello-world/
 
 ## Przydatne materiały
